@@ -1,6 +1,7 @@
 1. Install-Package log4net -Version 2.0.8
 2. Install-Package Microsoft.Extensions.Logging.Log4Net.AspNetCore
 3. Add a log4net.config file with the below content in the root of project.
+
 <?xml version="1.0"?>
 <log4net debug="false">
   <appender name="LogToFile" type="log4net.Appender.FileAppender">
@@ -19,7 +20,7 @@
   </root>
 </log4net>
 
-3. add the below code while instantiating the webhost interface
+3. add the below code while instantiating the webhost interface.
 
 .ConfigureLogging((hostingContext, logging) =>
             {
