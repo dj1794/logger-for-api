@@ -1,0 +1,11 @@
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\bin\Debug\netcoreapp2.0\LoggerTestApi.deps.json
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\bin\Debug\netcoreapp2.0\LoggerTestApi.runtimeconfig.json
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\bin\Debug\netcoreapp2.0\LoggerTestApi.runtimeconfig.dev.json
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\bin\Debug\netcoreapp2.0\LoggerTestApi.dll
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.csprojResolveAssemblyReference.cache
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\bin\Debug\netcoreapp2.0\LoggerTestApi.pdb
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.dll
+C:\Users\Dinesh\source\repos\LoggerTestApi\LoggerTestApi\obj\Debug\netcoreapp2.0\LoggerTestApi.pdb

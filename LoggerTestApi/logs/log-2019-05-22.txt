@@ -1,0 +1,9 @@
+2019-05-22 18:36:23,841 INFO  - User profile is available. Using 'C:\Users\Dinesh\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-05-22 18:36:27,007 INFO  - Request starting HTTP/1.1 GET http://localhost:2430/api/values  
+2019-05-22 18:36:27,786 INFO  - Executing action method LoggerTestApi.Controllers.ValuesController.Get (LoggerTestApi) with arguments ((null)) - ModelState is Valid
+2019-05-22 18:36:27,938 ERROR - Logger is working!!! Input string was not in a correct format.
+2019-05-22 18:36:27,953 INFO  - Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2019-05-22 18:36:28,108 INFO  - Executed action LoggerTestApi.Controllers.ValuesController.Get (LoggerTestApi) in 450.0514ms
+2019-05-22 18:36:28,132 INFO  - Request finished in 1169.3275ms 200 application/json; charset=utf-8
+2019-05-22 18:36:28,197 INFO  - Request starting HTTP/1.1 GET http://localhost:2430/favicon.ico  
+2019-05-22 18:36:28,239 INFO  - Request finished in 42.2675ms 404 
